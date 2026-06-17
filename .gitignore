@@ -1,0 +1,22 @@
+# Temp/intermediate files
+*.pyc
+__pycache__/
+
+# Large binary assets (videos, raw frames)
+*.mp4
+*.avi
+*.mov
+*.mkv
+hook_frame_*.png
+model1.png
+m1_shot*.jpg
+m2_shot*.jpg
+v2_frame_*.png
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
